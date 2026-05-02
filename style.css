@@ -1,14 +1,20 @@
 body {
-	background-color: white;
+    background-color: white;
 }
 
 h1 {
-	font-family: monospace;
-	color: black;
-	text-align: center;
+    font-family: monospace;
+    color: black;
+    text-align: center;
 }
 
 p {
-	text-align: center;
-	font-family: monospace;
+    text-align: center;
+    font-family: monospace;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
