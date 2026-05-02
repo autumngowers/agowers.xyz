@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "portfolio",
+  "name": "agowers.xyz",
   "compatibility_date": "2026-05-02",
   "observability": {
     "enabled": true
