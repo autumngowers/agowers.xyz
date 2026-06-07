@@ -18,3 +18,7 @@ img {
     max-width: 475px;
     height: auto;
 }
+
+a {
+    font-family: monospace;
+    color: black;
